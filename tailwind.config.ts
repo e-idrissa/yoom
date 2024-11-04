@@ -43,6 +43,9 @@ const config = {
           1: '#F9A90E',
         },
       },
+      backgroundImage: {
+        hero: "url('/images/hero-background.png')",
+      },
       keyframes: {
         'accordion-down': {
           from: { height: '0' },
@@ -56,9 +59,6 @@ const config = {
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
-      },
-      backgroundImage: {
-        hero: "url('/images/hero-background.png')",
       },
     },
   },

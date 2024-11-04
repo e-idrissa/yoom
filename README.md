@@ -50,7 +50,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
   <h3 align="center">A Zoom Clone</h3>
 
    <div align="center">
-     Build this project step by step with the detailed tutorial on <a href="https://www.youtube.com/watch?v=R8CIO1DZ2b8&t=211s" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with the detailed tutorial on <a href="https://www.youtube.com/watch?v=R8CIO1DZ2b8&t=211s" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
     </div>
 </div>
 
@@ -60,12 +60,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Assets & Code](#snippets)
-6. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available the <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>  YouTube channel.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
