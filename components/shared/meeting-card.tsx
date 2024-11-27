@@ -3,7 +3,6 @@
 import Image from "next/image";
 
 import { cn } from "@/lib/utils";
-// import { useToast } from "../ui/use-toast";
 import { Button } from "../ui/button";
 import { avatarImages } from "@/constants";
 import { useToast } from "../ui/use-toast";
